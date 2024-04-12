@@ -25,7 +25,7 @@ The Python code to find the pth root of a number in an efficient and accurate wa
 # PrimeGenerator.py
 The Python code to generate a prime number.
 
-# RSA.py
+# rsa.py
 The Python code implementing the RSA algorithm.
 
 # breakRSA.py
