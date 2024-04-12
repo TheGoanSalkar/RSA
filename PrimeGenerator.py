@@ -1,28 +1,3 @@
-#!/usr/bin/env python
-
-##  PrimeGenerator.py
-##  Author: Avi Kak
-##  Date: February 18, 2011
-##  Modified Date:  February 28, 2016
-
-##  Call syntax:
-##
-##        PrimeGenerator.py  width_desired_for_bit_field_for_prime
-##
-##  For example, if you call
-##
-##        PrimeGenerator.py 32
-##
-##  you may get a prime that looks like 3262037833.  On the other hand, if you
-##  call
-##
-##        PrimeGenerator.py 128
-##
-##  you may get a prime that looks like 338816507393364952656338247029475569761
-##
-##  IMPORTANT:  The two most significant are explicitly set for the prime that is
-##              returned.
-
 import sys
 import random
 
